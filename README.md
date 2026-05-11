@@ -30,12 +30,16 @@ Leetcode--Practice/
 ├── Day-03/
 │   ├── 01_<ProblemName>.cpp
 │   └── notes.md
+├── Day-04/
+│   ├── 01_<ProblemName>.java
+│   ├── 02_<ProblemName>.cpp
+│   └── notes.md
 ├── README.md
 └── .gitignore
 ```
 
 ## Tech Stack
 
-- C++
+- C++ and Java (per problem / preference on LeetCode)
 - Git and GitHub
 - LeetCode platform
