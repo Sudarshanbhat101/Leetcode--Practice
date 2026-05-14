@@ -38,6 +38,9 @@ Leetcode--Practice/
 │   ├── 01_<ProblemName>.java
 │   ├── 02_<ProblemName>.cpp
 │   └── notes.md
+├── Day-06/
+│   ├── 01_<ProblemName>.java
+│   └── notes.md
 ├── README.md
 └── .gitignore
 ```
