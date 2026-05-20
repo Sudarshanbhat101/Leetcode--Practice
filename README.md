@@ -50,6 +50,9 @@ Leetcode--Practice/
 ├── Day-09/
 │   ├── 01_<ProblemName>.java
 │   └── notes.md
+├── Day-10/
+│   ├── 01_<ProblemName>.java
+│   └── notes.md
 ├── README.md
 └── .gitignore
 ```
